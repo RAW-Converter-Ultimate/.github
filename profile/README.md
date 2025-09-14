@@ -38,8 +38,6 @@ The app doesn’t try to be a pixel editor; instead it integrates well with othe
 
 Reliability and safety are baked in. Conversions are **non-destructive**, edits are stored as sidecars, and the app never touches your original RAWs. Crashes are rare, but if they happen, the last session reopens exactly where you left off. It’s fully native on **Apple Silicon** with tight memory management, so long campaigns won’t bog your machine down. Whether you’re a newsroom editor pushing out breaking images, a wedding shooter under deadlines, or an e-commerce studio needing standardized output daily, RAW Converter Ultimate turns RAW chaos into **clean, consistent deliverables**—fast.
 
-![Batch & Export](https://static.macupdate.com/screenshots/219116/m/raw-converter-ultimate-screenshot.png)
-
 ---
 
 ## 🔑 Key Features
